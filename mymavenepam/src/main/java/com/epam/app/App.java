@@ -1,3 +1,4 @@
+package com.epam.app;
 import java.util.Arrays;
 
 class CustomList<D> 
